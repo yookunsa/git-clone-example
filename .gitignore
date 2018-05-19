@@ -1,0 +1,4 @@
+*.log
+.android/
+.AndroidStudio3.0/
+
