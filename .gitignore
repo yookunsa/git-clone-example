@@ -1,4 +1,28 @@
 *.log
 .android/
 .AndroidStudio3.0/
+.config/
+.eclipse/
+.gradle/
+.p2/
+.tooling/
+.VirtualBox/
+.WebStorm2017.3/
+eclipse/
+VirtualBox VMs/
+WebstormProjects/
+NTUSER.DAT*
+AppData/
+Contacts/
+Desktop/
+Documents/
+Downloads/
+Favorites/
+Links/
+Music/
+Pictures/
+Saved Games/
+Searches/
+Videos/
+ntuser.ini
 
